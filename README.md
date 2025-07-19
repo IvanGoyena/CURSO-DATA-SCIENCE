@@ -24,13 +24,14 @@ El objetivo fue explorar un dataset real de ventas de tacos, formular preguntas 
 
 ## 📊 Contenido del notebook
 
-1. **Introducción y objetivo**
-2. **Preguntas e hipótesis**
+1. **Objetivo del Proyecto**
+2. **Carga Dataset e Informacion General**
 3. **Análisis exploratorio de datos y visualizaciones**
-4. **Selección de variables (feature selection)**
-5. **Entrenamiento de modelos de regresión (Linear, Ridge, Lasso, ElasticNet)**
-6. **Evaluación con métricas (MAE, MSE, R²)**
-7. **Conclusiones finales**
+4. **hipótesis y Respuestas**
+5. **Selección de variables (feature selection)**
+6. **Entrenamiento de modelos de regresión (Linear, Ridge, Lasso, ElasticNet)**
+7. **Evaluación con métricas (MAE, MSE, R²)**
+8. **Conclusiones finales**
 
 ---
 
